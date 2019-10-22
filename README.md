@@ -1,4 +1,4 @@
 # Colorify
 The Official Colorify CSS Repositiory.
 
-For Documentation visit : https:colorify.tech
+For Documentation visit : https//:colorify.tech
